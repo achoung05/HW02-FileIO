@@ -23,7 +23,7 @@ bool countChar(char * filename, int * counts, int size)
   //
   return true;
 }
-
+pritnf("test");
 
 void printCounts(int * counts, int size)
 {
